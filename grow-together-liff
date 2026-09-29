@@ -162,7 +162,7 @@
 // ======================================================
 // CONFIG (ใส่ URL ของ Apps Script ที่ได้จากการ Deploy ตรงนี้)
 // ======================================================
-const GAS_URL = "https://script.google.com/macros/s/YOUR_APPS_SCRIPT_DEPLOY_ID/exec"; 
+const GAS_URL = "https://script.google.com/macros/s/AKfycby_VrQvNbwAAvhXBpPpGTTJBt23Ev8KBL7nnQZIKff3X5MpwabvO0WL1T3IOeUKLbp1/exec"; 
 const MY_LIFF_ID = "2011515286-dBBILHX5";
 
 const lineStatusDiv = document.getElementById("lineStatus");
